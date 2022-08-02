@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AmanKrr/Portfolio/static/css/main.93e370db.css",
-    "main.js": "/AmanKrr/Portfolio/static/js/main.ed7703a2.js",
-    "static/media/EthicalLearner.jpg": "/AmanKrr/Portfolio/static/media/EthicalLearner.c3d1284abec3cc8d6677.jpg",
-    "static/media/Adorway - 2.png": "/AmanKrr/Portfolio/static/media/Adorway - 2.53679b60f1c3be66003e.png",
-    "static/media/VimCustomization.png": "/AmanKrr/Portfolio/static/media/VimCustomization.afea921ee5ecf8d0afa0.png",
-    "static/media/VimCustomization - 2.png": "/AmanKrr/Portfolio/static/media/VimCustomization - 2.f7a753c6e61c793a71be.png",
-    "static/media/EthicalLearner - 2.png": "/AmanKrr/Portfolio/static/media/EthicalLearner - 2.f4a90f1d58d9135d3030.png",
-    "static/media/EthicalLearner - 3.png": "/AmanKrr/Portfolio/static/media/EthicalLearner - 3.efa58693cd7f0f6d6808.png",
-    "static/media/Adorway.png": "/AmanKrr/Portfolio/static/media/Adorway.c4c361a130b59c03f4e6.png",
-    "index.html": "/AmanKrr/Portfolio/index.html",
-    "main.93e370db.css.map": "/AmanKrr/Portfolio/static/css/main.93e370db.css.map",
-    "main.ed7703a2.js.map": "/AmanKrr/Portfolio/static/js/main.ed7703a2.js.map"
+    "main.css": "./static/css/main.93e370db.css",
+    "main.js": "./static/js/main.6749d79c.js",
+    "static/media/EthicalLearner.jpg": "./static/media/EthicalLearner.c3d1284abec3cc8d6677.jpg",
+    "static/media/Adorway - 2.png": "./static/media/Adorway - 2.53679b60f1c3be66003e.png",
+    "static/media/VimCustomization.png": "./static/media/VimCustomization.afea921ee5ecf8d0afa0.png",
+    "static/media/VimCustomization - 2.png": "./static/media/VimCustomization - 2.f7a753c6e61c793a71be.png",
+    "static/media/EthicalLearner - 2.png": "./static/media/EthicalLearner - 2.f4a90f1d58d9135d3030.png",
+    "static/media/EthicalLearner - 3.png": "./static/media/EthicalLearner - 3.efa58693cd7f0f6d6808.png",
+    "static/media/Adorway.png": "./static/media/Adorway.c4c361a130b59c03f4e6.png",
+    "index.html": "./index.html",
+    "main.93e370db.css.map": "./static/css/main.93e370db.css.map",
+    "main.6749d79c.js.map": "./static/js/main.6749d79c.js.map"
   },
   "entrypoints": [
     "static/css/main.93e370db.css",
-    "static/js/main.ed7703a2.js"
+    "static/js/main.6749d79c.js"
   ]
 }
