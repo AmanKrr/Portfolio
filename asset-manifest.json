@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.766dbf9b.css",
-    "main.js": "./static/js/main.60ceca38.js",
+    "main.css": "./static/css/main.36d9d0d6.css",
+    "main.js": "./static/js/main.74cd9042.js",
     "static/media/EthicalLearner.jpg": "./static/media/EthicalLearner.c3d1284abec3cc8d6677.jpg",
     "static/media/Adorway - 2.png": "./static/media/Adorway - 2.53679b60f1c3be66003e.png",
     "static/media/VimCustomization.png": "./static/media/VimCustomization.afea921ee5ecf8d0afa0.png",
@@ -10,11 +10,11 @@
     "static/media/EthicalLearner - 3.png": "./static/media/EthicalLearner - 3.efa58693cd7f0f6d6808.png",
     "static/media/Adorway.png": "./static/media/Adorway.c4c361a130b59c03f4e6.png",
     "index.html": "./index.html",
-    "main.766dbf9b.css.map": "./static/css/main.766dbf9b.css.map",
-    "main.60ceca38.js.map": "./static/js/main.60ceca38.js.map"
+    "main.36d9d0d6.css.map": "./static/css/main.36d9d0d6.css.map",
+    "main.74cd9042.js.map": "./static/js/main.74cd9042.js.map"
   },
   "entrypoints": [
-    "static/css/main.766dbf9b.css",
-    "static/js/main.60ceca38.js"
+    "static/css/main.36d9d0d6.css",
+    "static/js/main.74cd9042.js"
   ]
 }
